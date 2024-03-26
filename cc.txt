@@ -1,0 +1,4 @@
+Cloud computing is a service which provides various services as follows 
+IAAS :- infrastructure as a service
+PAAS:- platform as a service
+SAAS:- software as a service
